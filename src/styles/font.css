@@ -1,0 +1,42 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/PlusJakartaSansRomanSemiBold.ttf");
+  font-family: "Plus Jakarta Sans";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/PlusJakartaSansRomanMedium.ttf");
+  font-family: "Plus Jakarta Sans";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/PoppinsRegular.ttf");
+  font-family: "Poppins";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/PoiretOneRegular.ttf");
+  font-family: "Poiret One";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/PoppinsSemiBold.ttf");
+  font-family: "Poppins";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/PlusJakartaSansRomanRegular.ttf");
+  font-family: "Plus Jakarta Sans";
+  font-weight: 400;
+}
